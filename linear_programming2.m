@@ -25,4 +25,4 @@ z=linprog(-f2,[],[],A,b,eq,[]);
 b1=[240 190 80];
 w=linprog(-f,[],[],A,b1,eq,[]);
 
-%si b(3) cambia a 200 solo cambia función objetivo
+%si b(3) cambia a 200 solo cambia funciÃ³n objetivo
